@@ -1,0 +1,50 @@
+#header {
+  text-align: center;
+}
+
+#main {
+  width: 20%;
+  border: 20px solid grey;
+  border-radius: 10px;
+  padding: 10px;
+  display: inline-block;
+  text-align: center;
+}
+
+#other {
+  width: 73%;
+  border: 20px solid grey;
+  border-radius: 10px;
+  padding: 10px;
+  display: inline-block;
+  text-align: center;
+  vertical-align: top;
+}
+
+ul {
+  list-style-type: none;
+  margin-right: 45px;
+}
+
+h1 {
+  font-size: 70px;
+}
+
+#info {
+  margin-left: -30px;
+  border: 20px solid grey;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.person {
+  margin-left: -30px;
+  border: 20px solid grey;
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.footer {
+  color: grey;
+}
